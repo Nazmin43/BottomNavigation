@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="branch20">
+    <item>CSE</item>
+    <item>ECE</item>
+    <item>ME</item>
+    <item>CE</item>
+    <item >AE</item>
+    <item>CV</item>
+    </string-array>
+</resources>
